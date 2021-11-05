@@ -93,7 +93,7 @@ this assignment is **November 8th 2021, 23:59**.
 | Keep your GitHub repository private | 5% | You must keep your repository **private** at all times. |
 | Commit at least 3 times in different days | 5% | You should commit three times during different days in your repository. |
 | Code Style | 10% | You get 10% by default, and every 5 warnings from CheckStyle deducts 1%. |
-| Project Demonstration | 80% | Will release later |
+| Project Demonstration | 80% | [Rubrics](Demostration.md) |
 
 Note that sanity tests are not part of the marking scheme because they are to make sure the critical part of the skeleton code is working.
 They will pass even you have not implemented anything. 
