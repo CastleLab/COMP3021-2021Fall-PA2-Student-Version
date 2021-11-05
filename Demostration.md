@@ -1,6 +1,10 @@
 # COMP 3021 Programming Assignment 2
 ## Demonstration Rubrics
 
+> **Update:**
+> - For the icon used in the `Alert`, message dialog means there is an information icon in the dialog.
+> - For the dialog to show then losing the game, either error or information are fine since the example in readme shows an information icon. 
+
 ### Main menu (12pt)
  - The main menu should display correctly (6pt)
  - The layout should look similar to that in readme (Window size adjustment is allowed) (6pt)
@@ -28,7 +32,7 @@
 ### Game Result (18pt)
  - When the player wins the game, a massage dialog should be shown (6pt)
    - The title and the content of the dialog should be the provided strings in the skeleton code (2pt)
- - When the player loses the game, an error dialog should be shown (6pt)
+ - When the player loses the game, an error (or message) dialog should be shown (6pt)
    - The title and the content of the dialog should be the provided strings in the skeleton code (2pt)
  - After the above-mentioned dialog is closed, the main menu should be shown (6pt)
 
