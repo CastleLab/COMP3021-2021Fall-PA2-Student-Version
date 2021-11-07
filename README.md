@@ -77,13 +77,10 @@ the JUnit version of the test configurations instead.
 
 ## Submission
 
-You should submit a ZIP file containing the following:
+You should submit a `github-url.txt` file containing the URL of your private repository. We will ask you to add the TAs' accounts as
+  collaborators **after deadline**.
 
-- This Java project. Please keep the original file structure.
-- A `github-url.txt` file containing the URL of your private repository. We will ask you to add the TAs' accounts as
-  collaborators soon.
-
-You need to submit your ZIP file to [CASS](https://cssystem.cse.ust.hk/UGuides/cass/index.html). The deadline for 
+You need to submit your txt file to [CASS](https://cssystem.cse.ust.hk/UGuides/cass/index.html). The deadline for 
 this assignment is **November 8th 2021, 23:59**.
 
 ## Grading Scheme
