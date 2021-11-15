@@ -3,7 +3,7 @@
 
 > **Update:**
 > - For the icon used in the `Alert`, message dialog means there is an information icon in the dialog.
-> - For the dialog to show then losing the game, either error or information are fine since the example in readme shows an information icon. 
+> - For the dialog to show that losing the game, either error or information are fine since the example in readme shows an information icon. 
 
 ### 1. Main menu (12pt)
  - [1.1] The main menu should display correctly (6pt)
@@ -30,7 +30,7 @@
 ### 7. Game statistics display (6pt)
  - [7.1] Game statistics should update correctly on each move
 ### 8. Game Result (18pt)
- - [8.1] When the player wins the game, a massage dialog should be shown (6pt)
+ - [8.1] When the player wins the game, a message dialog should be shown (6pt)
    - [8.1.1] The title and the content of the dialog should be the provided strings in the skeleton code (2pt)
  - [8.2] When the player loses the game, an error (or message) dialog should be shown (6pt)
    - [8.2.1] The title and the content of the dialog should be the provided strings in the skeleton code (2pt)
